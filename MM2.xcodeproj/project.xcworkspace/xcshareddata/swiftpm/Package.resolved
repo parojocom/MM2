@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pararg",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:parojocom/ParArg.git",
+      "state" : {
+        "revision" : "852656eac9f6e256b931f076f8b7ab996d53c36a",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
