@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F50AB892A36478C001F5E0C /* ParArg in Frameworks */ = {isa = PBXBuildFile; productRef = 4F50AB882A36478C001F5E0C /* ParArg */; };
+		4F50AB8C2A369C7A001F5E0C /* ParArg in Frameworks */ = {isa = PBXBuildFile; productRef = 4F50AB8B2A369C7A001F5E0C /* ParArg */; };
 		4F5D6EF3258705C5001C0F98 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F5D6EF2258705C5001C0F98 /* main.swift */; };
 		4F5D6F0025870856001C0F98 /* MM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F5D6EFF25870856001C0F98 /* MM.swift */; };
 		4F5D6F0325870A84001C0F98 /* TimeExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F5D6F0225870A84001C0F98 /* TimeExt.swift */; };
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F50AB892A36478C001F5E0C /* ParArg in Frameworks */,
+				4F50AB8C2A369C7A001F5E0C /* ParArg in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -108,7 +108,7 @@
 			);
 			name = MM2;
 			packageProductDependencies = (
-				4F50AB882A36478C001F5E0C /* ParArg */,
+				4F50AB8B2A369C7A001F5E0C /* ParArg */,
 			);
 			productName = MM2;
 			productReference = 4F5D6EEF258705C5001C0F98 /* MM2 */;
@@ -138,7 +138,7 @@
 			);
 			mainGroup = 4F5D6EE6258705C5001C0F98;
 			packageReferences = (
-				4F50AB872A36478C001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */,
+				4F50AB8A2A369C7A001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */,
 			);
 			productRefGroup = 4F5D6EF0258705C5001C0F98 /* Products */;
 			projectDirPath = "";
@@ -331,7 +331,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		4F50AB872A36478C001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */ = {
+		4F50AB8A2A369C7A001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:parojocom/ParArg.git";
 			requirement = {
@@ -342,9 +342,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		4F50AB882A36478C001F5E0C /* ParArg */ = {
+		4F50AB8B2A369C7A001F5E0C /* ParArg */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 4F50AB872A36478C001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */;
+			package = 4F50AB8A2A369C7A001F5E0C /* XCRemoteSwiftPackageReference "ParArg" */;
 			productName = ParArg;
 		};
 /* End XCSwiftPackageProductDependency section */
